@@ -28,6 +28,8 @@ Open the `.pkt` file in Cisco Packet Tracer 8.x or later to explore the topology
 
 <img width="1677" height="893" alt="1" src="https://github.com/user-attachments/assets/c4c0bb24-6229-4d74-8441-afefe4f38e5f" />
 
+<img width="1679" height="955" alt="6" src="https://github.com/user-attachments/assets/1903061e-f90e-40ae-bed2-12d1d19ffef6" />
+
 <img width="1666" height="924" alt="2" src="https://github.com/user-attachments/assets/409ec1d2-076b-4f29-87f5-2d25f36b7740" />
 
 <img width="1657" height="870" alt="3" src="https://github.com/user-attachments/assets/7512f347-cfa6-4161-8bc6-790ed23de220" />
